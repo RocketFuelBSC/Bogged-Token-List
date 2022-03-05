@@ -1,0 +1,21 @@
+{
+    "name": "Rocket Fuel",
+    "website": "https://rocketfuel-bsc.com/",
+    "telegram": "https://t.me/rocketfuelofficial",
+    "discord": "https://discord.com/invite/Gj3Jj88Z",
+    "twitter": "https://twitter.com/RocketFuelBSC",
+    "description": "A New Meaning to Hyper-Deflation. Rocket Fuel aims to be the first CryptoCurrency to send somone to Space.",
+    "explorer": "https://bscscan.com/token/0xe27865ef940a865bc5ee6c6fc18d79ea1f8e45fe",
+    "type": "BEP20",
+    "symbol": "RKTF",
+    "decimals": 9,
+    "slippage": 17,
+    "status": "active",
+    "id": "0xe27865ef940a865bc5ee6c6fc18d79ea1f8e45fe",
+    "vested": [
+        "0x8c210cd0c61c9339555239304b63868d1fea5287, 0x070e6cd11db6b039ec73dce760c636c9924dd6c2, 0xb7b40519ad8af2d0ab4a53b9a1c8af33603a2cae,0x563f2ade46d9267b957294ecaa3b69fe27cf3bd2,	 0xf95fa4999f17791c6512160b606d60dcc2ffb304, 0x42432c5c6c8a86185f5a3dfae85355f53af81bfa, 0x93ef3a4d156bf3a6db8fcf0286a843e2cb280438, 0x3cb104e255cf84ae426f00384a5262073960a09b, 0x6b3f0fc607816600eee318c0cccef1537c5e8d16, 0x3ea421f0b596ca06c17c989ad05fb3e8e21f7abc"
+    ],
+    "audits": [
+        "https://auditrate.tech/images/pdf/Rocket_Fuel_0xe27865Ef940a865bc5ee6C6fC18D79ea1f8e45FE.pdf"
+    ]
+}
